@@ -25,7 +25,7 @@ $(function()
         artist: 'Marr D Bin',
 		name: 'Di Theo Anh',
 		url: 'Musics/Di Theo Anh.mp3',
-        picture: 'https://raw.githubusercontent.com/WonsenX/Music-player/master/Background/406924e492ad7d7fc17bc3479727f82b.jpg'
+        picture: 'https://raw.githubusercontent.com/WonsenX/Music-player/master/Image/_1.jpg'
     },
     {
         artist: 'Ngoc Doli',
